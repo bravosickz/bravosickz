@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @bravosickz
-- 🌱 I’m currently learning ...SQL, Python, Git, Linux
-- 💞️ I’m looking to collaborate ona  voice assistant for windows 
-- 📫 How to reach me ...discord button's below
+
+██████╗░██████╗░░█████╗░██╗░░░██╗░█████╗░░██████╗██╗░█████╗░██╗░░██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██║░░░██║██╔══██╗██╔════╝██║██╔══██╗██║░██╔╝╚════██║
+██████╦╝██████╔╝███████║╚██╗░██╔╝██║░░██║╚█████╗░██║██║░░╚═╝█████═╝░░░███╔═╝
+██╔══██╗██╔══██╗██╔══██║░╚████╔╝░██║░░██║░╚═══██╗██║██║░░██╗██╔═██╗░██╔══╝░░
+██████╦╝██║░░██║██║░░██║░░╚██╔╝░░╚█████╔╝██████╔╝██║╚█████╔╝██║░╚██╗███████╗
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝
++ Learning ...SQL, Python, Git, Linux
++ Looking to collaborate ona  voice assistant for windows 
 
 <!---
 bravosickz/bravosickz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
