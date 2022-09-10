@@ -9,7 +9,7 @@ bravosickz/bravosickz is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ## Languages
-<img width = 42px src="https://user-images.githubusercontent.com/108214552/189466210-30aefd3b-ea97-4210-9376-7c4914d7dd87.png"/>  <img width = 50px src="https://user-images.githubusercontent.com/108214552/189466218-1c0ee5db-9a00-478b-b591-f15aabcb0579.png"/> <img width = 50px src="https://user-images.githubusercontent.com/108214552/189466226-aa048a06-2bef-479a-b5df-c892e5a3d5e8.png"/> <img width = 50px src="https://user-images.githubusercontent.com/108214552/189466231-e665e0f7-0992-4c57-9d7f-fb7a888ca584.png"/>
+<img width = 42px src="https://user-images.githubusercontent.com/108214552/189466210-30aefd3b-ea97-4210-9376-7c4914d7dd87.png"/>  <img width = 50px src="https://user-images.githubusercontent.com/108214552/189466218-1c0ee5db-9a00-478b-b591-f15aabcb0579.png"/> <img width = 50px src="https://user-images.githubusercontent.com/108214552/189466226-aa048a06-2bef-479a-b5df-c892e5a3d5e8.png"/> <img width = 50px src="https://user-images.githubusercontent.com/108214552/189466231-e665e0f7-0992-4c57-9d7f-fb7a888ca584.png"/> <img width = 50px src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"/>
 
 
 
