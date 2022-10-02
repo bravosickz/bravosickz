@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/108214552/193447574-df3ca183-5538-43f0-a035-c9e82c806545.png)
 
 
 Status: Currently surviving high school (lol)
