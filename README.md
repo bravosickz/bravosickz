@@ -1,6 +1,6 @@
 
 
-
+Status: Currently surviving high school (lol)
 + Learning ...SQL, Python, Git, Linux
 + Looking to collaborate ona  voice assistant for windows 
 
