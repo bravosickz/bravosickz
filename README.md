@@ -4,7 +4,7 @@
 ### Status: Currently surviving high school 
 + Learning ...SQL, Python, Git, Linux, AI
 + Looking to collaborate on a voice assistant for windows 
-
++ Average type speed: 95 WPM (source: Monkeytype 30s)
 ### Languages I know:
 + Python 3
 + Bash
