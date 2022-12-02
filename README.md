@@ -5,6 +5,8 @@ Status: Currently surviving high school (lol)
 + Learning ...SQL, Python, Git, Linux
 + Looking to collaborate ona  voice assistant for windows 
 
+![image](https://user-images.githubusercontent.com/108214552/205340738-c53de31f-306d-423a-b185-0c0d4f7434d9.png)
+
 <!---
 bravosickz/bravosickz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
